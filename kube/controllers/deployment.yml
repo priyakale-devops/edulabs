@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: leaddevops/kubeserve:v1
+         image: learndevops/kubeserve:v1
         
 ---
 kind: Service
